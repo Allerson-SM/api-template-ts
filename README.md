@@ -9,7 +9,7 @@ The folders are structured as follows:
 * `test` - contains the tests
 * `dist` - contains the compiled code
 
-I built this template like the clean architecture (but not following it at all) and the knowledge i got with some developers learned. 
+I built this template like the clean architecture (but not following it at all) and the knowledge i learned with some developers. 
 The code is divided in 3 main layers: `routes`, `services` and `data`. I also created some other folders to manage configuration files and handlers. The folders are described below:
  
 * The `routes` layer is responsible for the routes. 
